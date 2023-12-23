@@ -1,3 +1,9 @@
+# Yugo Aji Pamungkas || 07TPLE009 || 201011401714
+![image](https://github.com/yugo44pamungkas/SimpleCart/assets/85557454/cc7d4665-cc5e-4589-bf7f-40c56b0fd853)
+
+![image](https://github.com/yugo44pamungkas/SimpleCart/assets/85557454/822f9f2a-223d-48d3-8102-927655312c4d)
+
+
 # SimpleCart
 implement simple cart and promotion
 
